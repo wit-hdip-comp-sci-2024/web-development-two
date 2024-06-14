@@ -1,0 +1,18 @@
+slack          : https://setu-hdip-comp-sci-24.slack.com
+moodle         : https://moodle.wit.ie/course/view.php?id=202930
+parent         : course/wit-hdip-comp-sci-2024
+youtube        : https://www.youtube.com/playlist?list=PLEuhMaR29LyCcSPxV8r9xDwiX3nzu3lza
+credits        : John Rellis
+icon: 
+  type: devicon-plain:nodejs-wordmark
+  color: white
+auth           : 1
+whitelist      : 1
+labStepsAutoNumber: true
+ignore :
+  - topic----onsite
+  # - topic-03-web-apps
+  # - topic-04-app-templates+views
+  # - topic-05-app-models
+  # - topic-06-sessions
+  # - topic-07-assignment
